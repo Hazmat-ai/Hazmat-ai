@@ -1,4 +1,4 @@
-# Hi, I'm Hamza Rizvi
+# Hi, I'm Hamza
 
 **3rd-year BSc Computer Science student** (UX Design minor, Co-op Option) at **Wilfrid Laurier University** — Milton campus.
 Currently a **Software Development Intern with the Ontario Government** (Aug 2026 – Jan 2027).
