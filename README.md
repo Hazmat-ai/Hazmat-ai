@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="banner.gif" alt="Animated StudyMind artwork" width="680"/>
+</p>
+
 # Hi, I'm Hamza
 
 **3rd-year BSc Computer Science student** (UX Design minor, Co-op Option) at **Wilfrid Laurier University** — Milton campus.
